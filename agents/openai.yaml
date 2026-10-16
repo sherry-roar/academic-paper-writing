@@ -1,0 +1,4 @@
+interface:
+  display_name: "Academic Paper Writing"
+  short_description: "Evidence-grounded English papers for any venue"
+  default_prompt: "Use $academic-paper-writing to revise this manuscript for clarity, coherent argument, and claims supported by the available evidence."

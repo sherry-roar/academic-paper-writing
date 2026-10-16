@@ -1,0 +1,23 @@
+# Local release evidence and distributable archives
+/docs/progress/
+/dist/
+
+# Credentials, editor state, and generated files
+.env
+.env.*
+*.pem
+*.key
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
